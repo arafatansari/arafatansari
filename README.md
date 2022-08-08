@@ -1,6 +1,4 @@
 ### Hi there 👋
-  
-<br />
 
 ### :mailbox: Get in touch :
 <div id="badges">
