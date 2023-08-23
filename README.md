@@ -1,38 +1,60 @@
-### Hi there 👋
+# 🖥️ fsociety: Cryptoc0nman 🖥️
 
-### :mailbox: Get in touch :
-<div id="badges">
+### 👋 Greetings, fellow cyber enthusiast!
+
+<div align="center">
   <a href="https://www.twitter.com/cryptoc0nman">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>  
+    <img src="https://img.shields.io/badge/fsociety_Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 ---
 
-### :man_technologist: About Me :
-- :telescope: 🔭 Infosec & Blockchain enthusiast trying to make a living.
+### 🕵️‍♂️ Welcome to my digital alter ego:
+- 🔒 Master of codes, breaker of chains. I venture deep into the realms of Infosec & Blockchain.
+- 🌍 Defender of the digital frontier. My mission? Safeguarding bytes and bits against the unseen.
+- 💡 Constantly evolving, learning, and hacking the matrix of cyber technologies.
 
-- :seedling: Exploring new technologies and ideas.
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" title="Bash" **alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
+### 🧰 Tools of the Revolution:
+<div align="center">
+  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-plain.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/nodejs/nodejs.org/main/public/static/images/logo-hexagon.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### :fire: My Stats :
+### 🎧 Soundtrack of My Life:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arafatansari&theme=great-gatsby&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=arafatansari&theme=great-gatsby)
+Music fuels my code. Here are some tracks that keep me in the zone:
+- ["Mr. Robot's" Main Theme](https://www.youtube.com/watch?v=rfAnT0eaCt0)
+- ["Where Is My Mind?" by Pixies](https://www.youtube.com/watch?v=OJ62RzJkYUo)
 
 ---
 
+
+### 🕹️ Play with Me:
+
+Want a break? Let's play a quick game of Rock, Paper, Scissors!
+
+```javascript
+function game(playerChoice) {
+    const choices = ["rock", "paper", "scissors"];
+    const computerChoice = choices[Math.floor(Math.random() * 3)];
+    if (playerChoice === computerChoice) {
+        return "It's a draw!";
+    }
+    if (
+        (playerChoice === "rock" && computerChoice === "scissors") ||
+        (playerChoice === "scissors" && computerChoice === "paper") ||
+        (playerChoice === "paper" && computerChoice === "rock")
+    ) {
+        return `You win! Computer chose ${computerChoice}`;
+    } else {
+        return `You lose! Computer chose ${computerChoice}`;
+    }
+}
