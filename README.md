@@ -36,6 +36,14 @@ Music fuels my code. Here are some tracks that keep me in the zone:
 
 ---
 
+### 📊 Digital Shadows:
+
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=arafatansari&theme=dark&background=000000&ring=66FF33&fire=66FF33&dates=FFFFFF" alt="GitHub Streak Stats" width="480"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatansari&theme=dark&bg_color=000000&title_color=66FF33&text_color=FFFFFF&icon_color=66FF33&hide_title=true&count_private=true" alt="GitHub Stats" width="480"/>
+</div>
+
+---
 
 ### 🕹️ Play with Me:
 
