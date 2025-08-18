@@ -1,9 +1,9 @@
-# 🖥️ fsociety: Cryptoc0nman 🖥️
+# 🖥️ r3y3r53(Arafat): [r3y3r53](https://x.com/r3y3r53) 🖥️
 
 ### 👋 Greetings, fellow cyber enthusiast!
 
 <div align="center">
-  <a href="https://www.twitter.com/cryptoc0nman">
+  <a href="https://x.com/r3y3r53">
     <img src="https://img.shields.io/badge/fsociety_Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
